@@ -1,6 +1,6 @@
 # :computer: HackerRank Python Problems
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/Python-3.11.3-blue.svg)](https://www.python.org/downloads/release/python-3113/)
 
 
 This repository contains solutions to Python problems from [HackerRank](https://www.hackerrank.com/domains/python). 
