@@ -21,3 +21,6 @@ list = [[i, j, k]             # Using list comprehension
         for k in range(z+1)
         if i+j+k != n]
 print(list)
+
+
+
